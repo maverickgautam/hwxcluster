@@ -118,9 +118,9 @@
     </modules>
 
     <scm>
-        <connection>scm:git:git@github.com:maverickgautam/bigdata.git</connection>
-        <url>scm:git:git@github.com:maverickgautam/bigdata.git</url>
-        <developerConnection>scm:git:git@github.com:maverickgautam/bigdata.git</developerConnection>
+        <connection>scm:git:git@github.com:maverickgautam/hwxcluster.git</connection>
+        <url>scm:git:git@github.com:maverickgautam/hwxcluster.git</url>
+        <developerConnection>scm:git:git@github.com:maverickgautam/hwxcluster.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
