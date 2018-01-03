@@ -115,6 +115,7 @@
 
     <modules>
         <module>hiveserver2</module>
+        <module>solr</module>
     </modules>
 
     <scm>
@@ -317,11 +318,11 @@
                 <artifactId>commons-codec</artifactId>
                 <version>1.9</version>
             </dependency>
-            <dependency>
-                <groupId>joda-time</groupId>
-                <artifactId>joda-time</artifactId>
-                <version>${joda-time.version}</version>
-            </dependency>
+            <!--<dependency>-->
+                <!--<groupId>joda-time</groupId>-->
+                <!--<artifactId>joda-time</artifactId>-->
+                <!--<version>${joda-time.version}</version>-->
+            <!--</dependency>-->
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-math3</artifactId>
