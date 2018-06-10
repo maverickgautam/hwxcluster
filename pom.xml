@@ -116,6 +116,7 @@
     <modules>
         <module>hiveserver2</module>
         <module>solr</module>
+        <module>kdc</module>
     </modules>
 
     <scm>
