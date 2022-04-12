@@ -36,7 +36,7 @@
 
 	<!--hortonworks/core tech stack related properties -->
 	<!-- hortonworks replo link with versions  http://public-repo-1.hortonworks.com/HDP/centos7/2.x/updates/2.6.0.3/build_metadata.txt -->
-        <hadoop.version>2.7.3.2.6.3.0-235</hadoop.version>
+        <hadoop.version>3.2.3</hadoop.version>
         <parquet-avro.version>1.9.0</parquet-avro.version>
         <kafka-clients.version>0.10.1.2.6.3.0-235</kafka-clients.version>
 
